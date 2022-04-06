@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\Harry\Desktop\Infinite Mode\src\Main.cpp(183,11): warning C4102: 'PlayLayer': unreferenced label
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  3 of 1007 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Infinite Mode.vcxproj -> C:\Users\Harry\Desktop\Infinite Mode\Release\Infinite Mode.dll
+EXEC : error : The process "GeometryDash.exe" not found.
+          1 file(s) copied.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: The command "taskkill /f /im "GeometryDash.exe"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: copy "C:\Users\Harry\Desktop\Infinite Mode\Release\Infinite Mode.dll" "E:\Games\SteamGames\steamapps\common\Geometry Dash\extensions"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: start "" "steam://rungameid/322170"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd" exited with code -1.
